@@ -44,7 +44,7 @@ int main(void)
         c = (a + b) % 10;
         d =  c + b * 10;
         N = d;
-        num++
+        num++;
         if(d == r)
         {
             printf("%d",num);
