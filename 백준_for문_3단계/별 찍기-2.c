@@ -6,7 +6,7 @@
 int main(void)
 {
     // 방법 1
-    int N;
+    int N,l;
     scanf("%d",&N);
     for(int i = 1; i <= N; i++)
     {
